@@ -1,3 +1,7 @@
+## Guía compartida del proyecto
+
+Consulta [GUIA_PROYECTO.md](GUIA_PROYECTO.md) para conocer el alcance acordado, las pantallas de referencia, la integración frontend/backend y la hoja de ruta. Distingue las propuestas de esa guía de las funcionalidades realmente implementadas.
+
 <laravel-boost-guidelines>
 === foundation rules ===
 
